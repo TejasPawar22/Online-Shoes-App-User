@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShoesAap</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Profile</string>
+    <string name="menu_slideshow">MyOrders</string>
+    <string name="menu_mycart">MyCart</string>
+    <string name="description">description</string>
+    <string name="LogOut">LogOut</string>
+    <string name="logOut">logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MyCart">MyCart</string>
+    <string name="Profile">Profile</string>
+    <string name="MyOrders">MyOrders</string>
+</resources>
